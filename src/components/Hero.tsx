@@ -148,7 +148,7 @@ export default function Hero() {
         }}>
           <video ref={bgVideoRef} autoPlay loop muted playsInline
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-            src="/hero.mp4"
+            src="https://res.cloudinary.com/dsdpvrgco/video/upload/v1780292969/hero.mp4_rkve1v.mp4"
           />
         </div>
 
@@ -181,7 +181,7 @@ export default function Hero() {
             loop
             muted
             playsInline
-            src="/hero.mp4"
+            src="https://res.cloudinary.com/dsdpvrgco/video/upload/v1780292969/hero.mp4_rkve1v.mp4"
             style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
           />
 
